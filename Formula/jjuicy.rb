@@ -2,7 +2,7 @@ class Jjuicy < Formula
   desc "GUI for Jujutsu version control"
   homepage "https://github.com/starburstdata/gg"
   license "Apache-2.0"
-  head "https://github.com/starburstdata/gg.git", branch: "master"
+  head "https://github.com/starburstdata/gg.git", branch: "pachu/rename"
 
   depends_on "node" => :build
   depends_on "rust" => :build
