@@ -4,7 +4,7 @@ class Jjuicy < Formula
   license "Apache-2.0"
   url "https://github.com/starburstdata/jjuicy/archive/refs/tags/v1.0.4.tar.gz"
   sha256 "fe398274c01eb1943758e7dc65b15eb3c46eb66f92b65733e126fe61e1ea988e"
-  version "1.0.3"
+  version "1.0.4"
 
   depends_on "node" => :build
   depends_on "rust" => :build
