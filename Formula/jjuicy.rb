@@ -2,8 +2,8 @@ class Jjuicy < Formula
   desc "GUI for Jujutsu version control"
   homepage "https://github.com/starburstdata/gg"
   license "Apache-2.0"
-  url "https://github.com/starburstdata/jjuicy/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "fe398274c01eb1943758e7dc65b15eb3c46eb66f92b65733e126fe61e1ea988e"
+  url "https://github.com/starburstdata/jjuicy/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "31fa84bbe541a3e4db513ecc084dc3db4c1724e6570c3bf0bad96e2a33e85a75"
   version "1.0.4"
 
   depends_on "node" => :build
